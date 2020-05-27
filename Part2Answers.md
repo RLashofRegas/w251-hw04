@@ -26,4 +26,4 @@ Adding another convolutional layer does not seem to impact accuracy significantl
 Increasing the batch size seems to reduce validation accuracy.
 
 * What is the best accuracy you can achieve? Are you over 99%? 99.5%?
-Letting the base model train for a few minutes achieves an accuracy of 99%, there is no fractional granularity given for the accuracy.
+Letting the base model train for a few minutes achieves an accuracy of 99%, there is no fractional granularity given for the accuracy.~
